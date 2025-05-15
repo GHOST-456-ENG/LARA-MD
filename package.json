@@ -34,5 +34,6 @@
     "cheerio":"1.0.0",
     "denethdev-ytmp3":"1.0.3",
     "adm-zip": "^0.5.16"
+    "@justalk/pornhub-api": "^3.5.0"
   }
 }
